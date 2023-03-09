@@ -1,0 +1,10 @@
+
+server:
+  port: 35004
+logging:
+  level:
+    net:
+      biancheng:
+        www: trace
+  file:
+    path: /data/.data2/spring_boot/logging
